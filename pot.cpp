@@ -1,7 +1,7 @@
 // pot.cpp
 //
 
-#include "stdafx.h"
+//#include "stdafx.h"
 #include <iostream>
 #include "player.h"
 #include "Table.h"
